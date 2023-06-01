@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @SITIENEIKIBET
-- 👀 I’m interested in ...WEB DEVELOPMENT
-- 🌱 I’m currently Working ...A software Engineer at Ahadi Wireless Company
-- 💞️ I’m looking to collaborate on ...software engineering 
+- 👀 Im a  ...WEB DEVELOPER
+- 🌱 I’m currently Working ...A  WEB DEVELOPER at Ahadi Wireless Company
+- I'm Using HTML, CSS,JavaScript, Bootstrap,React for my frontend and Nodejs as the Backend Engine, MySQL as the Database Engine.
+- 💞️ I’m looking to collaborate on ...WEB DEVELOPMENT 
 - 📫 How to reach me ...sitieneikibet@gmail.com
 
 <!---
