@@ -1,4 +1,4 @@
-👋 Hi there! I'm Emmanuel, a Seasoned Web Developer 🌐 and Data Analyst/Modeler 📊 with a passion for crafting elegant, data-driven solutions that make an impact. 🚀
+👋 Hi there! I'm Emmanuel, a Seasoned Web Developer 🌐 and Data Analyst/Modeler/Business Intelligence Developer/Business Intelligence Specialist 📊 with a passion for crafting elegant, data-driven solutions that make an impact. 🚀
 
 🖥️ On the Web Development front, I've spent years honing my skills in building responsive, user-friendly web applications. From front-end magic with HTML, CSS, and JavaScript to back-end wizardry with Node.js, Python, and SQL, I thrive on turning ideas into polished digital experiences.
 
@@ -14,7 +14,7 @@
 
 📫 Get in touch:
 - 📧 Email: sitieneikibet@gmail.com
-- 💼 LinkedIn: linkedin.com/in/emmanuel-sitienei-2b318b109
+- 💼 LinkedIn: linkedin.com/in/emmanuel-sitienei-2b318b109?
 - 🌐 Portfolio: Under Development...
 
 🌍 Based in Nairobi, Kenya, I'm always eager to explore new opportunities and challenges. Let's build something awesome together! 💡
