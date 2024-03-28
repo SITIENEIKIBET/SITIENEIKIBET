@@ -14,7 +14,7 @@
 
 📫 Get in touch:
 - 📧 Email: sitieneikibet@gmail.com
-- 💼 LinkedIn: linkedin.com/in/emmanuel-sitienei-2b318b109?
+- 💼 https://www.linkedin.com/in/emmanuel-sitienei--data-analyst
 - 🌐 Portfolio: Under Development...
 
 🌍 Based in Nairobi, Kenya, I'm always eager to explore new opportunities and challenges. Let's build something awesome together! 💡
